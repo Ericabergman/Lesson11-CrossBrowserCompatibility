@@ -1,0 +1,139 @@
+.title {
+	width: 475px;
+	height: 174px;
+	font-family: "Mulish";
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	line-height: 55px;
+	color: #111111;
+}
+
+.text {
+	width: 445px;
+	height: 56px;
+	font-family: "Mulish";
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 26px;
+	color: #111111;
+	mix-blend-mode: normal;
+	opacity: 0.8;
+}
+
+.container {
+	display: flex;
+	justify-content: flex-end;
+}
+
+form {
+	width: 475px;
+	height: 291px;
+}
+
+.map {
+	display: flex;
+	justify-content: center;
+}
+
+.Name {
+	height: 72px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.label_name {
+	font-family: "Mulish";
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 20px;
+	color: #111111;
+	mix-blend-mode: normal;
+	opacity: 0.6;
+}
+
+.input_name {
+	background-color: transparent;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	width: 475px;
+}
+
+.Email {
+	box-sizing: border-box;
+	display: flex;
+	height: 72px;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.label_email {
+	font-family: "Mulish";
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 20px;
+	color: #111111;
+	mix-blend-mode: normal;
+	opacity: 0.6;
+}
+
+.input_email {
+	width: 475px;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	font-size: 18px;
+	background-color: transparent;
+	line-height: 21px;
+}
+
+.message {
+	font-size: 18px;
+	background-color: transparent;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	height: 72px;
+}
+
+.label__message {
+	font-family: "Mulish";
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 20px;
+	color: #111111;
+	mix-blend-mode: normal;
+	opacity: 0.6;
+}
+
+.input__message {
+	width: 475px;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	font-size: 18px;
+	background-color: transparent;
+	line-height: 21px;
+}
+
+.btn {
+	height: 50px;
+	width: 125px;
+	background-color: #4a4ff2;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+	font-family: "Mulish";
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 20px;
+	align-items: center;
+	color: #ffffff;
+}
